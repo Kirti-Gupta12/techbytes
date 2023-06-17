@@ -6,7 +6,7 @@
   <li>Searching</li>
   <li>Pagination</li>
   <li>Deletion</li>
-  <li>API Fetching</li>
+  <li>Data Fetching via API</li>
   </ul>
 
 <br>
